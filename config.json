@@ -1,0 +1,17 @@
+{
+  "leagueId": 1270,
+  "leagueName": "ליגת ילדים ג׳ חוף",
+  "team": {
+    "displayName": "גליל גולן צפון",
+    "match": "גליל גולן",
+    "exclude": "דרום",
+    "short": "גליל"
+  },
+  "site": {
+    "title": "גליל גולן צפון | ילדים ג׳",
+    "whatsappFooter": "נשלח מלוח המשחקים של הקבוצה",
+    "repo": "mozesor/galil-golan-tzafon-gimel",
+    "url": "https://mozesor.github.io/galil-golan-tzafon-gimel/",
+    "icsId": "galil-golan-tzafon-gimel"
+  }
+}

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//galil-golan-tzafon-gimel//he
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:גליל גולן צפון
+X-WR-TIMEZONE:Asia/Jerusalem
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:6aced69090bb5e6cc68312a9@galil-golan-tzafon-gimel
+DTSTAMP:20260101T000000Z
+SUMMARY:⚽ גליל גולן צפון נגד דורגל נהלל יזרא
+ על צפון (בית) | מועד משוער
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DESCRIPTION:מחזור 7\nמועד משוער: השעה טרם פורסמה
+  והיום עוד יכול לזוז. היומן יתעדכן לבד
+END:VEVENT
+END:VCALENDAR
