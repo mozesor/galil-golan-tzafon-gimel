@@ -13,5 +13,9 @@
     "repo": "mozesor/galil-golan-tzafon-gimel",
     "url": "https://mozesor.github.io/galil-golan-tzafon-gimel/",
     "icsId": "galil-golan-tzafon-gimel"
+  },
+  "push": {
+    "server": "https://galil-push-tzafon-gimel.mozesor.workers.dev",
+    "vapidPublicKey": "BJaqf5sWiv6fHio6WSBOebIHuvxZyStSedMM_y168NEeV-FziRcKaIC9lX1KT1T7qMs9drBHlCP3DE9xnflyJr4"
   }
 }
