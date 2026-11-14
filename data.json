@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-14T14:21:22.662Z",
+  "fetchedAt": "2026-11-14T15:43:54.824Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -768,7 +768,7 @@
         "id": "68d612211b7b720e58adeebc",
         "pid": 6897,
         "name": "מ.ס. חיפה רובי שפירא",
-        "goals": 1
+        "goals": 2
       },
       "away": {
         "id": "68d612211b7b720e58adef77",
@@ -5620,19 +5620,6 @@
   "standings": [
     {
       "rank": 1,
-      "id": "68d612211b7b720e58adef77",
-      "name": "הפועל עירוני כרמיאל",
-      "games": 4,
-      "wins": 3,
-      "draws": 1,
-      "losses": 0,
-      "gf": 9,
-      "ga": 3,
-      "gd": 6,
-      "points": 10
-    },
-    {
-      "rank": 2,
       "id": "68e41d4a1db3a1ff6a0c0fa6",
       "name": "מ.כ. הפועל גלבוע צו פיוס",
       "games": 3,
@@ -5645,7 +5632,7 @@
       "points": 9
     },
     {
-      "rank": 3,
+      "rank": 2,
       "id": "68d612211b7b720e58adef5c",
       "name": "מכבי אחי נצרת",
       "games": 3,
@@ -5655,6 +5642,19 @@
       "gf": 10,
       "ga": 4,
       "gd": 6,
+      "points": 9
+    },
+    {
+      "rank": 3,
+      "id": "68d612211b7b720e58adef77",
+      "name": "הפועל עירוני כרמיאל",
+      "games": 4,
+      "wins": 3,
+      "draws": 0,
+      "losses": 1,
+      "gf": 9,
+      "ga": 4,
+      "gd": 5,
       "points": 9
     },
     {
@@ -5740,13 +5740,13 @@
       "id": "68d612211b7b720e58adeebc",
       "name": "מ.ס. חיפה רובי שפירא",
       "games": 3,
-      "wins": 1,
-      "draws": 1,
+      "wins": 2,
+      "draws": 0,
       "losses": 1,
-      "gf": 11,
+      "gf": 12,
       "ga": 8,
-      "gd": 3,
-      "points": 4
+      "gd": 4,
+      "points": 6
     },
     {
       "rank": 11,
