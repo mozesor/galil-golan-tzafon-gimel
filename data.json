@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-15T14:42:05.221Z",
+  "fetchedAt": "2026-11-15T20:09:48.608Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -804,18 +804,18 @@
       "id": "6aced69090bb5e6cc6831275",
       "date": "2026-11-15T18:00:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adef5c",
         "pid": 5673,
         "name": "מכבי אחי נצרת",
-        "goals": null
+        "goals": 4
       },
       "away": {
         "id": "68d612211b7b720e58adef4f",
         "pid": 8009,
         "name": "מ.כדורגל נהלל יזראעל צפון",
-        "goals": null
+        "goals": 1
       }
     },
     {
@@ -5620,6 +5620,19 @@
   "standings": [
     {
       "rank": 1,
+      "id": "68d612211b7b720e58adef5c",
+      "name": "מכבי אחי נצרת",
+      "games": 4,
+      "wins": 4,
+      "draws": 0,
+      "losses": 0,
+      "gf": 14,
+      "ga": 5,
+      "gd": 9,
+      "points": 12
+    },
+    {
+      "rank": 2,
       "id": "68e41d4a1db3a1ff6a0c0fa6",
       "name": "מ.כ. הפועל גלבוע צו פיוס",
       "games": 3,
@@ -5629,19 +5642,6 @@
       "gf": 13,
       "ga": 3,
       "gd": 10,
-      "points": 9
-    },
-    {
-      "rank": 2,
-      "id": "68d612211b7b720e58adef5c",
-      "name": "מכבי אחי נצרת",
-      "games": 3,
-      "wins": 3,
-      "draws": 0,
-      "losses": 0,
-      "gf": 10,
-      "ga": 4,
-      "gd": 6,
       "points": 9
     },
     {
@@ -5815,19 +5815,6 @@
     },
     {
       "rank": 16,
-      "id": "68d612211b7b720e58adef4f",
-      "name": "מ.כדורגל נהלל יזראעל צפון",
-      "games": 2,
-      "wins": 1,
-      "draws": 0,
-      "losses": 1,
-      "gf": 5,
-      "ga": 8,
-      "gd": -3,
-      "points": 3
-    },
-    {
-      "rank": 17,
       "id": "68d612211b7b720e58adeec3",
       "name": "מכבי עירוני טמרה",
       "games": 3,
@@ -5837,6 +5824,19 @@
       "gf": 4,
       "ga": 9,
       "gd": -5,
+      "points": 3
+    },
+    {
+      "rank": 17,
+      "id": "68d612211b7b720e58adef4f",
+      "name": "מ.כדורגל נהלל יזראעל צפון",
+      "games": 3,
+      "wins": 1,
+      "draws": 0,
+      "losses": 2,
+      "gf": 6,
+      "ga": 12,
+      "gd": -6,
       "points": 3
     },
     {
