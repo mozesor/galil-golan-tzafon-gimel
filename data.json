@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-17T18:26:26.433Z",
+  "fetchedAt": "2026-11-18T01:14:29.276Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -822,36 +822,36 @@
       "id": "6aced69090bb5e6cc6831269",
       "date": "2026-11-17T17:00:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adef65",
         "pid": 4858,
         "name": "הפועל קש",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "id": "68e41d4a1db3a1ff6a0c0fa6",
         "pid": 3682,
         "name": "מ.כ. הפועל גלבוע צו פיוס",
-        "goals": null
+        "goals": 4
       }
     },
     {
       "id": "6aced69090bb5e6cc6831265",
       "date": "2026-11-17T17:15:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adeec5",
         "pid": 2157,
         "name": "הפועל חיפה 2",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "id": "68d612211b7b720e58adef9e",
         "pid": 5660,
         "name": "הפועל עכו 1 צו פיוס",
-        "goals": null
+        "goals": 4
       }
     },
     {
@@ -5620,6 +5620,19 @@
   "standings": [
     {
       "rank": 1,
+      "id": "68e41d4a1db3a1ff6a0c0fa6",
+      "name": "מ.כ. הפועל גלבוע צו פיוס",
+      "games": 4,
+      "wins": 4,
+      "draws": 0,
+      "losses": 0,
+      "gf": 17,
+      "ga": 4,
+      "gd": 13,
+      "points": 12
+    },
+    {
+      "rank": 2,
       "id": "68d612211b7b720e58adef5c",
       "name": "מכבי אחי נצרת",
       "games": 4,
@@ -5630,19 +5643,6 @@
       "ga": 5,
       "gd": 9,
       "points": 12
-    },
-    {
-      "rank": 2,
-      "id": "68e41d4a1db3a1ff6a0c0fa6",
-      "name": "מ.כ. הפועל גלבוע צו פיוס",
-      "games": 3,
-      "wins": 3,
-      "draws": 0,
-      "losses": 0,
-      "gf": 13,
-      "ga": 3,
-      "gd": 10,
-      "points": 9
     },
     {
       "rank": 3,
@@ -5763,6 +5763,19 @@
     },
     {
       "rank": 12,
+      "id": "68d612211b7b720e58adef9e",
+      "name": "הפועל עכו 1 צו פיוס",
+      "games": 4,
+      "wins": 2,
+      "draws": 0,
+      "losses": 2,
+      "gf": 12,
+      "ga": 12,
+      "gd": 0,
+      "points": 6
+    },
+    {
+      "rank": 13,
       "id": "68d612211b7b720e58adef40",
       "name": "הפועל חוף הכרמל / ממ 2 צו פיוס",
       "games": 3,
@@ -5775,20 +5788,20 @@
       "points": 4
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "68d612211b7b720e58adeec5",
       "name": "הפועל חיפה 2",
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
-      "gf": 7,
-      "ga": 5,
-      "gd": 2,
+      "losses": 2,
+      "gf": 10,
+      "ga": 9,
+      "gd": 1,
       "points": 3
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "68e09e961b7b720e58c004a0",
       "name": "הפועל מ.א. משגב צו פיוס",
       "games": 1,
@@ -5798,19 +5811,6 @@
       "gf": 6,
       "ga": 5,
       "gd": 1,
-      "points": 3
-    },
-    {
-      "rank": 15,
-      "id": "68d612211b7b720e58adef9e",
-      "name": "הפועל עכו 1 צו פיוס",
-      "games": 3,
-      "wins": 1,
-      "draws": 0,
-      "losses": 2,
-      "gf": 8,
-      "ga": 9,
-      "gd": -1,
       "points": 3
     },
     {
@@ -5893,19 +5893,6 @@
     },
     {
       "rank": 22,
-      "id": "68d612211b7b720e58adef65",
-      "name": "הפועל קש",
-      "games": 3,
-      "wins": 0,
-      "draws": 1,
-      "losses": 2,
-      "gf": 5,
-      "ga": 10,
-      "gd": -5,
-      "points": 1
-    },
-    {
-      "rank": 23,
       "id": "68d612211b7b720e58adef29",
       "name": "מכבי ס. מעלות תרשיחא צו פיוס",
       "games": 3,
@@ -5915,6 +5902,19 @@
       "gf": 4,
       "ga": 10,
       "gd": -6,
+      "points": 1
+    },
+    {
+      "rank": 23,
+      "id": "68d612211b7b720e58adef65",
+      "name": "הפועל קש",
+      "games": 4,
+      "wins": 0,
+      "draws": 1,
+      "losses": 3,
+      "gf": 6,
+      "ga": 14,
+      "gd": -8,
       "points": 1
     },
     {
