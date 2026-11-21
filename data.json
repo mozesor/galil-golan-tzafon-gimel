@@ -11,7 +11,7 @@
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 2
   },
-  "fetchedAt": "2026-11-21T12:28:28.580Z",
+  "fetchedAt": "2026-11-21T19:43:10.959Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -894,36 +894,36 @@
       "id": "6aced69090bb5e6cc6831231",
       "date": "2026-11-21T14:45:00.000Z",
       "round": 1,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adef35",
         "pid": 5172,
         "name": "הפ' נוף הגליל",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "id": "68d612211b7b720e58adefa4",
         "pid": 3392,
         "name": "הפועל עירוני עראבה",
-        "goals": null
+        "goals": 0
       }
     },
     {
       "id": "6aced69090bb5e6cc6831247",
       "date": "2026-11-21T15:00:00.000Z",
       "round": 2,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adeefb",
         "pid": 3616,
         "name": "מ.כ. כרמל חיפה",
-        "goals": null
+        "goals": 3
       },
       "away": {
         "id": "68d612211b7b720e58adef4f",
         "pid": 8009,
         "name": "מ.כדורגל נהלל יזראעל צפון",
-        "goals": null
+        "goals": 3
       }
     },
     {
