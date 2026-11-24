@@ -6,12 +6,17 @@
     "round": 5,
     "at": "2026-11-22T07:21:35.393Z"
   },
+  "me": {
+    "id": "68d612211b7b720e58adeedb",
+    "pid": 8526,
+    "name": "מ.כ. גליל גולן צפון"
+  },
   "league": {
     "id": 1270,
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-23T10:38:15.701Z",
+  "fetchedAt": "2026-11-24T15:01:03.944Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -945,24 +950,6 @@
       }
     },
     {
-      "id": "6aced69090bb5e6cc6831279",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68d612211b7b720e58adef4f",
-        "pid": 8009,
-        "name": "מ.כדורגל נהלל יזראעל צפון",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adef29",
-        "pid": 1909,
-        "name": "מכבי ס. מעלות תרשיחא צו פיוס",
-        "goals": null
-      }
-    },
-    {
       "id": "6aced69090bb5e6cc683127b",
       "date": "2026-11-27T22:00:00.000Z",
       "round": 5,
@@ -978,29 +965,6 @@
         "pid": 5673,
         "name": "מכבי אחי נצרת",
         "goals": null
-      }
-    },
-    {
-      "id": "6aced69090bb5e6cc683127d",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68d612211b7b720e58adeedb",
-        "pid": 8526,
-        "name": "מ.כ. גליל גולן צפון",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adeeb4",
-        "pid": 3137,
-        "name": "אהלי טמרה",
-        "goals": null
-      },
-      "ifa": {
-        "date": "2026-11-28",
-        "time": null,
-        "venue": null
       }
     },
     {
@@ -1076,26 +1040,8 @@
       }
     },
     {
-      "id": "6aced69090bb5e6cc683128c",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68d612211b7b720e58adef77",
-        "pid": 5907,
-        "name": "הפועל עירוני כרמיאל",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adefa4",
-        "pid": 3392,
-        "name": "הפועל עירוני עראבה",
-        "goals": null
-      }
-    },
-    {
       "id": "6aced69090bb5e6cc683128d",
-      "date": "2026-11-27T22:00:00.000Z",
+      "date": "2026-11-28T07:20:00.000Z",
       "round": 5,
       "finished": false,
       "home": {
@@ -1127,6 +1073,29 @@
         "pid": 4858,
         "name": "הפועל קש",
         "goals": null
+      }
+    },
+    {
+      "id": "6aced69090bb5e6cc683127d",
+      "date": "2026-11-28T16:45:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68d612211b7b720e58adeedb",
+        "pid": 8526,
+        "name": "מ.כ. גליל גולן צפון",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adeeb4",
+        "pid": 3137,
+        "name": "אהלי טמרה",
+        "goals": null
+      },
+      "ifa": {
+        "date": "2026-11-28",
+        "time": null,
+        "venue": null
       }
     },
     {
@@ -1423,6 +1392,24 @@
       }
     },
     {
+      "id": "6aced69090bb5e6cc6831279",
+      "date": "2026-12-07T11:30:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68d612211b7b720e58adef4f",
+        "pid": 8009,
+        "name": "מ.כדורגל נהלל יזראעל צפון",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adef29",
+        "pid": 1909,
+        "name": "מכבי ס. מעלות תרשיחא צו פיוס",
+        "goals": null
+      }
+    },
+    {
       "id": "6aced69090bb5e6cc683128b",
       "date": "2026-12-08T10:00:00.000Z",
       "round": 5,
@@ -1455,6 +1442,24 @@
         "id": "68e09e961b7b720e58c004a0",
         "pid": 6105,
         "name": "הפועל מ.א. משגב צו פיוס",
+        "goals": null
+      }
+    },
+    {
+      "id": "6aced69090bb5e6cc683128c",
+      "date": "2026-12-09T17:00:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68d612211b7b720e58adef77",
+        "pid": 5907,
+        "name": "הפועל עירוני כרמיאל",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adefa4",
+        "pid": 3392,
+        "name": "הפועל עירוני עראבה",
         "goals": null
       }
     },
