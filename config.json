@@ -2,6 +2,7 @@
   "leagueId": 1270,
   "leagueName": "ליגת ילדים ג׳ חוף",
   "team": {
+    "pid": 8526,
     "displayName": "גליל גולן צפון",
     "match": "גליל גולן",
     "exclude": "דרום",
