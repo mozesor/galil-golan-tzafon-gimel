@@ -16,7 +16,7 @@
     "name": "ליגת ילדים ג' חוף",
     "currentRound": 4
   },
-  "fetchedAt": "2026-11-24T15:01:03.944Z",
+  "fetchedAt": "2026-11-25T02:44:29.175Z",
   "teams": [
     {
       "id": "68d612211b7b720e58adef6b",
@@ -935,36 +935,18 @@
       "id": "6aced69090bb5e6cc683126d",
       "date": "2026-11-24T16:30:00.000Z",
       "round": 4,
-      "finished": false,
+      "finished": true,
       "home": {
         "id": "68d612211b7b720e58adeeb0",
         "pid": 2894,
         "name": "הפועל מטה אשר",
-        "goals": null
+        "goals": 1
       },
       "away": {
         "id": "68d612211b7b720e58adef9b",
         "pid": 2997,
         "name": "הפועל עפולה צו פיוס",
-        "goals": null
-      }
-    },
-    {
-      "id": "6aced69090bb5e6cc683127b",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68d612211b7b720e58adef6b",
-        "pid": 6182,
-        "name": "ביתר נהריה צו פיוס",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adef5c",
-        "pid": 5673,
-        "name": "מכבי אחי נצרת",
-        "goals": null
+        "goals": 5
       }
     },
     {
@@ -1004,42 +986,6 @@
       }
     },
     {
-      "id": "6aced69090bb5e6cc6831283",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68e09ea61b7b720e58c00d44",
-        "pid": 1677,
-        "name": "עירוני נשר אברהם אלטר",
-        "goals": null
-      },
-      "away": {
-        "id": "68d612211b7b720e58adeeb0",
-        "pid": 2894,
-        "name": "הפועל מטה אשר",
-        "goals": null
-      }
-    },
-    {
-      "id": "6aced69090bb5e6cc6831285",
-      "date": "2026-11-27T22:00:00.000Z",
-      "round": 5,
-      "finished": false,
-      "home": {
-        "id": "68e41d4a1db3a1ff6a0c0fa6",
-        "pid": 3682,
-        "name": "מ.כ. הפועל גלבוע צו פיוס",
-        "goals": null
-      },
-      "away": {
-        "id": "68e09e961b7b720e58c004a0",
-        "pid": 6105,
-        "name": "הפועל מ.א. משגב צו פיוס",
-        "goals": null
-      }
-    },
-    {
       "id": "6aced69090bb5e6cc683128d",
       "date": "2026-11-28T07:20:00.000Z",
       "round": 5,
@@ -1058,6 +1004,24 @@
       }
     },
     {
+      "id": "6aced69090bb5e6cc6831283",
+      "date": "2026-11-28T13:30:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68e09ea61b7b720e58c00d44",
+        "pid": 1677,
+        "name": "עירוני נשר אברהם אלטר",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adeeb0",
+        "pid": 2894,
+        "name": "הפועל מטה אשר",
+        "goals": null
+      }
+    },
+    {
       "id": "6aced69090bb5e6cc6831286",
       "date": "2026-11-28T13:30:00.000Z",
       "round": 5,
@@ -1072,6 +1036,24 @@
         "id": "68d612211b7b720e58adef65",
         "pid": 4858,
         "name": "הפועל קש",
+        "goals": null
+      }
+    },
+    {
+      "id": "6aced69090bb5e6cc683127b",
+      "date": "2026-11-28T16:30:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68d612211b7b720e58adef6b",
+        "pid": 6182,
+        "name": "ביתר נהריה צו פיוס",
+        "goals": null
+      },
+      "away": {
+        "id": "68d612211b7b720e58adef5c",
+        "pid": 5673,
+        "name": "מכבי אחי נצרת",
         "goals": null
       }
     },
@@ -1555,6 +1537,24 @@
         "id": "68e09ea61b7b720e58c00d44",
         "pid": 1677,
         "name": "עירוני נשר אברהם אלטר",
+        "goals": null
+      }
+    },
+    {
+      "id": "6aced69090bb5e6cc6831285",
+      "date": "2026-12-16T17:00:00.000Z",
+      "round": 5,
+      "finished": false,
+      "home": {
+        "id": "68e41d4a1db3a1ff6a0c0fa6",
+        "pid": 3682,
+        "name": "מ.כ. הפועל גלבוע צו פיוס",
+        "goals": null
+      },
+      "away": {
+        "id": "68e09e961b7b720e58c004a0",
+        "pid": 6105,
+        "name": "הפועל מ.א. משגב צו פיוס",
         "goals": null
       }
     },
@@ -5651,6 +5651,19 @@
     },
     {
       "rank": 3,
+      "id": "68d612211b7b720e58adef9b",
+      "name": "הפועל עפולה צו פיוס",
+      "games": 3,
+      "wins": 3,
+      "draws": 0,
+      "losses": 0,
+      "gf": 27,
+      "ga": 2,
+      "gd": 25,
+      "points": 9
+    },
+    {
+      "rank": 4,
       "id": "68d612211b7b720e58adef77",
       "name": "הפועל עירוני כרמיאל",
       "games": 4,
@@ -5663,7 +5676,7 @@
       "points": 9
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "68d612211b7b720e58adef6b",
       "name": "ביתר נהריה צו פיוס",
       "games": 3,
@@ -5676,7 +5689,7 @@
       "points": 7
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "68d612211b7b720e58adeebc",
       "name": "מ.ס. חיפה רובי שפירא",
       "games": 4,
@@ -5689,7 +5702,7 @@
       "points": 7
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "68d612211b7b720e58adef0b",
       "name": "הפועל בית שאן מסילות צו פיוס",
       "games": 4,
@@ -5700,19 +5713,6 @@
       "ga": 14,
       "gd": 2,
       "points": 7
-    },
-    {
-      "rank": 7,
-      "id": "68d612211b7b720e58adef9b",
-      "name": "הפועל עפולה צו פיוס",
-      "games": 2,
-      "wins": 2,
-      "draws": 0,
-      "losses": 0,
-      "gf": 22,
-      "ga": 1,
-      "gd": 21,
-      "points": 6
     },
     {
       "rank": 8,
@@ -5952,13 +5952,13 @@
       "rank": 26,
       "id": "68d612211b7b720e58adeeb0",
       "name": "הפועל מטה אשר",
-      "games": 3,
+      "games": 4,
       "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "gf": 3,
-      "ga": 18,
-      "gd": -15,
+      "losses": 4,
+      "gf": 4,
+      "ga": 23,
+      "gd": -19,
       "points": 0
     }
   ],
